@@ -1,0 +1,160 @@
+Cuando estamos trabajando con números y datos,
+me parece que lo primero que viene a nuestra mente
+no es realmente este tema del diseño
+y que decimos qué tan importante es hacer
+que nuestro proyecto se vea bonito.
+En la clase de ahora quiero explicarte
+algunos principios de diseño,
+que es un tema que va mucho más allá
+de hacer que nuestro proyecto se vea bonito.
+Estos recursos son muy útiles
+para poder entregar un mensaje final
+de una manera adecuada a nuestro público
+y poder hacer que nuestro reporte
+sea aprovechado al máximo por la persona que lo use.
+En lo personal, el tema de diseño para mí
+podría hablar por horas del tema,
+pero aquí en esta clase prepare
+tres ejemplos que vamos a revisar
+del libro de Storytelling with Data,
+donde vamos a platicar de las mejores prácticas
+para que puedas utilizar el diseño
+a tu favor con tus reportes.
+Vamos con este primer ejemplo,
+en el cual quiero mostrarte
+cómo el diseño de una tabla
+puede afectar la importancia
+y el peso que se le da
+al protagonista de nuestro visual,
+que son los números.
+Veamos de este lado
+cómo tenemos un gráfico con bordes muy gruesos,
+con colores muy fuertes,
+que determinan robando la atención
+de la persona que está leyendo la tabla.
+Podemos ver cómo los números
+realmente están pasando a un segundo plan.
+Una recomendación que hace la autora de este libro
+es que debemos concentrarnos en un diseño simple
+que lleve la atención de la persona
+que lee nuestra tabla hacia el protagonista,
+los números y el resultado
+que estamos mostrando en nuestro reporte.
+Lo que quiero que te lleves de este primer ejemplo
+es que muchas veces la simplicidad del diseño
+que estamos trabajando va a ser clave
+para poder centrar la atención del público
+en el número, en el resultado
+o en el comparativo que estamos realizando.
+En este caso lo mostré con una tabla,
+pero esto aplica para cualquier tipo de gráfico
+o visualización que pongamos en nuestro reporte.
+Este primer ejemplo nos ayuda a ver
+cómo el poder seleccionar
+diferentes grosores de las líneas de nuestras tablas o colores
+pueden hacer que pierdan la importancia visual
+que tienen los números que estamos entregando en nuestro reporte.
+Es importante tomar en cuenta
+que este principio lo mostré en este momento con una tabla,
+pero es algo que podemos aplicar
+en cada tipo de visualización que trabajamos en nuestro reporte.
+Quisiera mostrarte ahora un segundo ejemplo
+donde vamos a trabajar ya no sobre los colores
+o los bordes que estamos aplicando en nuestro gráfico,
+sino que vamos a ver un punto clave
+al momento de definir el eje Y de un gráfico de barras.
+Veamos este primer ejemplo
+donde el eje Y de nuestro gráfico
+comienza en un punto de 34%.
+¿Qué dato estamos viendo aquí?
+Ese dato lo presentaron en Fox News hace algunos años,
+en donde estaban mostrando un dato,
+aparentemente muy alarmante,
+donde estaban incrementando en una forma muy alta
+la cantidad de impuestos o el porcentaje de impuestos
+que iba a tener que pagar el ciudadano.
+Veamos ahora cómo cambia el gráfico
+al momento que cambiamos el eje Y
+de que inicie en el 34% a que inicie en el 0%.
+Veamos cómo este gap de menos de 5%.
+Se puede interpretar mucho mejor de una manera rápida,
+a diferencia del primer gráfico
+que podría darnos un sesgo en nuestra interpretación,
+pensando que el incremento es muchísimo más alto de lo que es.
+Si bien este 5% no es para ignorarse,
+también es verdad que en este primer gráfico
+creamos esta interpretación alarmante en nuestro público.
+Es importante trabajar con nuestros ejes
+y la definición de qué rangos
+vamos a presentar en nuestros gráficos
+para poder sí mostrar los cambios
+que estamos trabajando de una manera adecuada
+y fácil de encontrar por nuestro público,
+pero tampoco crear algo que de un mensaje que no es verdad.
+Volvamos al tema de los colores.
+Quiero mostrar que un ejemplo más
+en el que vamos a darnos cuenta de la importancia
+que tiene escoger una paleta de colores adecuada.
+Vamos a la primera parte del eje.
+Aquí estamos viendo un gráfico de calor
+donde se está dividiendo por país y por tipo de producto
+los niveles de venta de cierto producto.
+Ahora, quisiera invitarte a que des pausa la clase
+y que trates de interpretar
+qué es lo que está sucediendo en este gráfico
+y que me ayudes a decirme
+cuáles de los países son los que tienen mejores niveles de venta.
+Y bueno, creo que todos podemos estar de acuerdo
+que fue complicado interpretar esta gráfica, ¿no?
+Y esto es primero porque para poder entender
+qué está pasando en esta visualización,
+tuvimos que ir al texto que está arriba
+para poder saber qué significa cada uno de los colores
+que se usaron en el gráfico.
+Además de que hay problemas de elegibilidad
+y que hay celdas que no podemos ver a primera vista,
+cuál es el número que se le ha asignado.
+Ya después de poder hacer esta vista minuciosa
+y pasar algunos minutos viendo,
+al fin podemos encontrar, por ejemplo,
+que los países de Austria y Brasil
+tienen mayores niveles de venta en algunos de los productos.
+Pero esto después de tener como que esta etapa de confusión
+antes de poder llegar a una conclusión.
+Hagamos un cambio que, si bien es simple,
+nos va a ayudar muchísimo a la hora de lograr
+que nuestro público interprete de una manera adecuadal gráfico.
+En lugar de utilizar colores tan distintos entre ellos,
+vamos a utilizar un recurso que se llama Gradiente de Color.
+En este caso, vamos a asignarle un valor de mayor a más bajo.
+En este caso, del más azul hasta el más blanco
+a las diferentes valores numéricos que tiene este gráfico.
+Y vamos a ver aquí como tan simple, sin necesidad de leer nada,
+incluso sin necesidad de leer
+qué números tiene cada una de las celdas.
+Podemos encontrar cuáles países
+en qué productos tienen un mejor ranking.
+Con este ejemplo, vemos lo importante que es
+escoger la paleta de colores correcta
+para facilitar a nuestro público
+la interpretación de los datos que estamos presentando.
+Ahora, en especial, cuando trabajamos con un público más amplio,
+es importante tomar en cuenta que hay personas con daltonismo.
+En este caso, debemos ajustar estas paletas de colores
+para que ellos puedan también realizar
+esta fácil interpretación de los datos que estamos presentando.
+Algo padre que tiene Power BI
+es que ya tenemos algunos temas precargados
+con la etiqueta de accesible.
+Este etiqueta nos va a ayudar a identificar los temas
+que son más amigables para todos.
+Y bien, estos son algunos recursos que podemos usar
+en nuestro favor como colores y formatos
+para poder realizar un reporte de impacto
+y entregar el mensaje que estamos buscando.
+Ahora, me gustaría recalcar que no entres en pánico
+si no te consideras una persona de artes o una persona creativa,
+ya que estos recursos son realmente simples
+y Power BI tiene varios recursos precargados
+que vas a poder utilizar sin necesidad de ser un experto en el tema.
+Quiero mostrarte más ejemplos en la siguiente clase.

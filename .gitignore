@@ -1,0 +1,55 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv_whisper/
+env/
+.venv/
+
+# =========================
+# Variables sensibles
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# Logs y temporales
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# Jupyter / Data
+# =========================
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+*.xls
+
+# =========================
+# IDEs / Editores
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Sistema Operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Build / cache
+# =========================
+build/
+dist/
+*.egg-info/
+
